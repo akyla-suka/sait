@@ -1,0 +1,42 @@
+body {
+  background: url(../img/background.png);
+}
+.header{
+  margin-left: 200px;
+}
+.abzac{
+  margin-left: 200px;
+}
+.img2{
+  margin-left: 1270px;
+  margin-top: auto;
+  position: absolute;
+}
+.backgroundphoto{
+  margin-left: 1190px;
+  margin-top: 10px;
+  position: absolute;
+}
+.bg{
+  width: 450px;
+  height: 570px;
+}
+.фото_с_дп{
+  margin-left: 37px;
+}
+.url{
+  margin-top: 800px;
+  margin-left: 100px;
+}
+.two{
+  margin-left: 160px;
+}
+.twot{
+  margin-top: -50px;
+}
+.three{
+  margin-left: 160px;
+}
+.threet{
+  margin-top: -50px;
+}
